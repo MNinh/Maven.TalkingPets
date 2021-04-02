@@ -38,7 +38,7 @@ public class PetTest {
         Pet pet = new Pet(name);
 
         // : When
-        String expected = "Super super"
+        String expected = "Super super";
         String actual = pet.speak();
 
         // : Then
